@@ -1,2 +1,5 @@
-# ECE-331
-This is a simple speech-to-text recognition program that take pre-recorded audio files as an input source.
+
+NAME:Nnate Salem Udochi
+LEVEL: 300
+DEPARTMENT:Electronics And Computer Engineering
+REG NO: 2019364007
