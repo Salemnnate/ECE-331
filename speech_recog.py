@@ -1,4 +1,4 @@
-"""This is the beginning of the program"""
+"""Starting my program"""
 import speech_recognition as sr
 
 def take():
@@ -6,7 +6,7 @@ def take():
     recognizer = sr.Recognizer()
 
     # Added an audio file of my own here.
-    audio_file = sr.AudioFile('voice_regco.wav')
+    audio_file = sr.AudioFile()
 
     # For audio files
     with audio_file as source:
